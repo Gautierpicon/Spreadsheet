@@ -2,8 +2,6 @@
 # Spreadsheet
 
 
-
-
 ## Features
 
 - Write in a cell
@@ -43,6 +41,8 @@ Start the server
 ```
 
 Please feel free to contribute to fixing bugs or other issues, even if it's a small project, it helps me.
+
+
 ## Feedback
 
 Please feel free to open a [GitHub issues](https://github.com/Gautierpicon/Spreadsheet/issues/new)
