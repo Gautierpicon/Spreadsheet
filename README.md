@@ -7,8 +7,8 @@
 ## Features
 
 - Write in a cell
-- Sum cells with '=SUM(cell1,cell2, ... cellN)'
-- Multiply cells with '=MULTIPLY(cell1,cell2, ... cellN)'
+- Sum cells with `=SUM(cell1,cell2, ... cellN)` e.g.: `=SUM(B2,C3)`
+`=MULTIPLY(cell1,cell2, ... cellN)` e.g.: `=MULTIPLY(B2,C3)`
 
 
 ## Tech Stack
