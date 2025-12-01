@@ -1,9 +1,6 @@
 
 # Spreadsheet
 
-https://spreadsheet-ashen.vercel.app/
-
-
 ## Features
 
 - Write in a cell
